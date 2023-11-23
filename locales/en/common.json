@@ -1,0 +1,14 @@
+{
+  "navigation": {
+    "home": "Home",
+    "profile": "Profile",
+    "bookmarks": "Bookmarks",
+    "activity": "Activity",
+    "discover": "Discover"
+  },
+  "home": {
+    "title": "For You",
+    "playlist": "Playlist",
+    "loading": "Loading..."
+  }
+}
